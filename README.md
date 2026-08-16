@@ -14,14 +14,11 @@ The system enforces strict **epistemic boundaries**, guaranteeing that character
 
 ### 1. Start the FastAPI Backend
 ```bash
-# Navigate to project root
-cd TYN
-
-# Install Python dependencies
+# From the project root
 pip install -r backend/requirements.txt
 
-# Start backend server (runs on port 8001 or 8000)
-python -m uvicorn backend.app.main:app --reload --port 8001
+# Start backend server (runs on port 8000)
+python -m uvicorn backend.app.main:app --reload --port 8000
 ```
 
 > Note: The frontend automatically detects and connects whether your backend runs on port 8001 or port 8000.

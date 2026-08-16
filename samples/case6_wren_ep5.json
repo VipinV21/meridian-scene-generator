@@ -1,0 +1,77 @@
+{
+  "case_number": 6,
+  "character": "Wren",
+  "point_in_story": "end of Ep 5",
+  "scene_prompt": "Wren tries to work out why Kamala has been so distracted lately.",
+  "scene_text": "Wren sat on the wicker hamper in the costume store, clutching her annotated script to her chest. It was one in the morning, and the building was finally settling into silence after the lighting desk breakdown. Downstairs, she could hear Kamala's footsteps pacing back and forth in the corridor outside the office.\n\nKamala had been so distracted all season, Wren thought, turning a thumbed page of her script. It wasn't just the briskness with which she had cut Wren's scene in week two\u2014that was standard director's maths, saving four minutes of running time. It was the strangeness of her mood ever since.\n\nWren remembered how Kamala had gone somewhere else in her head two weeks ago, closing herself in the office for a stretch one evening and coming out afterward looking like she'd aged five years, snapping at Priya over nothing and then apologising for it just as sharply. And then there was Dev. When Dev had missed an entire day of rehearsal last week without giving a reason, Kamala hadn't yelled, hadn't demanded an explanation, hadn't even pressed him. She had just sat at the table with her hands flat on the wood, staring at the floor.\n\n'She's carrying something,' Wren thought, tracing the pencil notes in the margin of Dev's track. 'Either she's terrified the gala won't raise enough money, or she knows something about Dev that the rest of us haven't guessed.'\n\nWren shook her head. Whatever was eating at Kamala, tonight had changed things. When Dev was late for the dress rehearsal, Kamala had turned to Wren and said 'Go on.' And Wren had gone on, playing the lead for two and a half hours until her throat was raw and her pulse was racing. Kamala hadn't praised her afterwards\u2014she had just stared from the back of the stalls\u2014but Wren knew. Kamala was distracted, but Wren was ready.",
+  "word_count": 312,
+  "epistemic_audit": {
+    "is_epistemically_valid": true,
+    "verification_score": 100,
+    "detected_leaks": [],
+    "allowed_knowledge_used": [
+      "Ep 1: Kamala announces season close revival of 'The Winter Boarders' in green ro...",
+      "Ep 1: Priya Nair introduced as stage manager at the read-through, with a clipboa...",
+      "Ep 2: Kamala cuts Wren's only scene in front of Dev and Priya to save 4 minutes....",
+      "Ep 2: Wren cries in costume store on hamper. Priya finds her, sits beside her. P...",
+      "Ep 3: Observed: Dev missed an entire day of rehearsal without providing an expla..."
+    ],
+    "forbidden_knowledge_avoided": [
+      "FORBIDDEN: Lease non-renewal process",
+      "FORBIDDEN: Tomas arranged Priya's hire directly, bypassing the normal application process",
+      "FORBIDDEN: Priya is Tomas's niece",
+      "FORBIDDEN: Dev's call was from a Mumbai casting agent",
+      "FORBIDDEN: Dev accepted Hyderabad serial starting March"
+    ],
+    "justification": "VERIFICATION PASSED (Score: 100/100): Scene strictly adheres to Wren's epistemic state at end of Ep 5. The narrative relies exclusively on Wren's direct observations and personal inferences without leaking any forbidden un-communicated story facts.",
+    "semantic_check_mode": "skipped_no_key"
+  },
+  "allowed_knowledge": [
+    "Ep 1: Kamala announces season close revival of 'The Winter Boarders' in green room. Dev Sethi applauds loudest. Wren Okonkwo takes notes. Tomas Ellery stands at back in coat.",
+    "Ep 1: Priya Nair introduced as stage manager at the read-through, with a clipboard and a very quiet manner.",
+    "Ep 1: Observed: Dev received a phone call during read-through and claimed it was his brother-in-law.",
+    "Ep 2: Kamala cuts Wren's only scene in front of Dev and Priya to save 4 minutes. Tomas is absent.",
+    "Ep 2: Wren cries in costume store on hamper. Priya finds her, sits beside her. Priya tells no one.",
+    "Ep 3: Observed: Dev missed an entire day of rehearsal without providing an explanation.",
+    "Ep 3: Priya quietly rewrites understudy plot so Wren covers Dev's role. Doesn't clear with Kamala. Tells Wren to start learning.",
+    "Ep 4: Tomas at board meeting describes tenancy as 'under review' and moves to next item.",
+    "Ep 4: Kamala announces fundraising gala on closing night. Asks Dev to headline. Dev agrees. Kamala says 'don't know what I'd do without you'.",
+    "Ep 5: Tech rehearsal overruns past midnight due to lighting desk failure. Kamala, Dev, Priya, Wren present till 1 AM. Tomas is NOT told.",
+    "Ep 5: Dress rehearsal Thursday: Dev is 1 hr late. Kamala puts Wren on in Dev's part. Wren is extraordinary for 2.5 hours. Dev arrives late, apologises to Priya in car park, assumes run was cancelled. Nobody corrects him."
+  ],
+  "suspicions_and_misconceptions": [
+    "PUZZLE: Wren notices Kamala has seemed unusually brisk and distracted (cutting her scene abruptly, not explaining why) but does not know the cause.",
+    "PUZZLE: Wren wonders why Kamala has been so distracted and uncharacteristically lenient with Dev -- not pressing him about his missing day, locking a drawer -- without knowing why."
+  ],
+  "forbidden_knowledge": [
+    "FORBIDDEN: Lease non-renewal process",
+    "FORBIDDEN: Tomas arranged Priya's hire directly, bypassing the normal application process",
+    "FORBIDDEN: Priya is Tomas's niece",
+    "FORBIDDEN: Dev's call was from a Mumbai casting agent",
+    "FORBIDDEN: Dev accepted Hyderabad serial starting March",
+    "FORBIDDEN: Dev leaving after closing night",
+    "FORBIDDEN: Tomas meeting with property developer",
+    "FORBIDDEN: Building sale drawings",
+    "FORBIDDEN: Kamala locked 2019 grant file in desk drawer",
+    "FORBIDDEN: Kamala forged grant signature 14 years ago",
+    "FORBIDDEN: Priya found carbon copy of forged grant file",
+    "FORBIDDEN: Priya knows Kamala forged signature",
+    "FORBIDDEN: Dev was in Chennai for screen test",
+    "FORBIDDEN: Screen test went well",
+    "FORBIDDEN: Tomas is selling building",
+    "FORBIDDEN: Tomas told Priya about sale in car park",
+    "FORBIDDEN: Dev plans to announce departure from gala stage",
+    "FORBIDDEN: Priya paid for replacement lighting desk from personal money",
+    "FORBIDDEN: Kamala privately admitted to herself, watching from the back of the stalls, that Wren is better in the part than Dev has been in six years. She told no one.",
+    "FORBIDDEN: Tomas signed conditional sale agreement for building",
+    "FUTURE (Ep 6): Priya tells Wren in costume store she's sure Dev is auditioning elsewhere, tells Wren to learn whole part properly. Wren tells no one.",
+    "FUTURE (Ep 6): House sells out. Gala performance occurs.",
+    "FUTURE (Ep 6): Dev announces from stage at end of gala that this was his last performance with company. Kamala in wings 11ft away hears it same time as audience.",
+    "FUTURE (Ep 6): Tomas leaves before curtain call. Company watches him go.",
+    "FUTURE (Ep 6): Kamala burns 2019 grant file in metal bin in alley behind scene dock.",
+    "FUTURE (Ep 6): Priya stands at stage door, decides NOT to tell Kamala about sale, goes home.",
+    "FUTURE (Ep 6): Kamala offers Wren lead roles for next season in office. Wren accepts. Neither mentions building."
+  ],
+  "test_case_analysis": "SPECULATIVE BOUNDARY TEST: At Ep 5, Wren has noticed Kamala's erratic behavior (abruptly cutting her scene, locking the grant file in her desk, uncharacteristically not pressing Dev for missing rehearsal). Wren must speculate based ONLY on visible clues. She DOES NOT KNOW about the lease, grant forgery, building sale, or Dev's Hyderabad deal.",
+  "generation_mode": "no_key_configured_using_curated_fallback"
+}

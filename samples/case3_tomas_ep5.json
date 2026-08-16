@@ -1,0 +1,74 @@
+{
+  "case_number": 3,
+  "character": "Tomas",
+  "point_in_story": "end of Ep 5",
+  "scene_prompt": "Tomas walks through the empty auditorium the morning after signing the sale agreement.",
+  "scene_text": "The morning light fell across the empty stalls in long, dusty shafts. Tomas Ellery walked slowly down the central aisle, his leather soles clicking on the worn parquet floor. He kept his coat buttoned against the chill. The building had always been cold in the mornings, ever since his father had bought the freehold forty years ago.\n\nHe stopped at the edge of the orchestra pit and looked up at the proscenium arch. Yesterday morning at nine o'clock, in the glass-fronted office of the property developer on Bellary Road, he had signed the conditional sale agreement. The folder of site drawings was locked in his car trunk outside. In eight months, the bulldozers would arrive, and the Meridian Company would be a footnote in a commercial redevelopment plan.\n\nHe felt no sudden pang of regret, only the dry, administrative satisfaction of a transaction concluded before the market turned. He had kept his word to himself. He had managed the board, listed the tenancy as 'under review' to prevent panic, and secured Priya's quiet silence in the car park earlier that week. Priya was a sensible girl\u2014his sister's daughter had inherited the family instinct for keeping her head down.\n\nLooking around the empty auditorium, Tomas noted the faded velvet of the seat backs and the peeling plaster near the upper boxes. The company had survived on grants and Kamala's fierce, stubborn pride for fourteen years, but pride did not pay roof maintenance or lease renewals. Closing night tomorrow would be a clean break. Dev Sethi would headline the gala, the house would be full, and Kamala would have her moment of triumph before the reality of the lease settled in.\n\nTomas turned and walked back toward the foyer exit. The deal was done.",
+  "word_count": 292,
+  "epistemic_audit": {
+    "is_epistemically_valid": true,
+    "verification_score": 100,
+    "detected_leaks": [],
+    "allowed_knowledge_used": [
+      "Ep 1: Kamala announces season close revival of 'The Winter Boarders' in green ro...",
+      "Ep 1: Tomas tells Kamala privately in office lease expires in 11 months, will no...",
+      "Ep 1: Priya Nair introduced as stage manager at the read-through, with a clipboa...",
+      "Ep 1: Tomas arranged Priya's hire himself, by telephone, before Kamala ever saw ...",
+      "Ep 1: Priya is Tomas's sister's daughter -- his niece. Neither of them mentions ..."
+    ],
+    "forbidden_knowledge_avoided": [
+      "FORBIDDEN: Dev's call was from a Mumbai casting agent",
+      "FORBIDDEN: Wren cried in costume store",
+      "FORBIDDEN: Priya comforted Wren",
+      "FORBIDDEN: Dev accepted Hyderabad serial starting March",
+      "FORBIDDEN: Dev leaving after closing night"
+    ],
+    "justification": "VERIFICATION PASSED (Score: 100/100): Scene strictly adheres to Tomas's epistemic state at end of Ep 5. The narrative relies exclusively on Tomas's direct observations and personal inferences without leaking any forbidden un-communicated story facts.",
+    "semantic_check_mode": "skipped_no_key"
+  },
+  "allowed_knowledge": [
+    "Ep 1: Kamala announces season close revival of 'The Winter Boarders' in green room. Dev Sethi applauds loudest. Wren Okonkwo takes notes. Tomas Ellery stands at back in coat.",
+    "Ep 1: Tomas tells Kamala privately in office lease expires in 11 months, will not renew automatically. Process has not started. Kamala asks 2 questions, gets unsatisfying answers, tells no one.",
+    "Ep 1: Priya Nair introduced as stage manager at the read-through, with a clipboard and a very quiet manner.",
+    "Ep 1: Tomas arranged Priya's hire himself, by telephone, before Kamala ever saw an application.",
+    "Ep 1: Priya is Tomas's sister's daughter -- his niece. Neither of them mentions this to anyone at the read-through or afterward.",
+    "Ep 2: Tomas meets property developer at hotel on Bellary Road, gets folder of drawings. Mentions to no one.",
+    "Ep 4: Tomas tells Priya in car park after Tuesday rehearsal he is selling building. Wants no one to hear until after closing night. Priya agrees tacitly.",
+    "Ep 4: Tomas at board meeting describes tenancy as 'under review' and moves to next item.",
+    "Ep 4: Kamala announces fundraising gala on closing night. Asks Dev to headline. Dev agrees. Kamala says 'don't know what I'd do without you'.",
+    "Ep 5: Tomas signs conditional sale agreement at developer's office on Friday morning."
+  ],
+  "suspicions_and_misconceptions": [
+    "BELIEF: Tomas believes the sale of the building is proceeding smoothly and privately, and assumes Priya will keep it to herself until after closing night as agreed."
+  ],
+  "forbidden_knowledge": [
+    "FORBIDDEN: Dev's call was from a Mumbai casting agent",
+    "FORBIDDEN: Wren cried in costume store",
+    "FORBIDDEN: Priya comforted Wren",
+    "FORBIDDEN: Dev accepted Hyderabad serial starting March",
+    "FORBIDDEN: Dev leaving after closing night",
+    "FORBIDDEN: Kamala locked 2019 grant file in desk drawer",
+    "FORBIDDEN: Kamala forged grant signature 14 years ago",
+    "FORBIDDEN: Priya found carbon copy of forged grant file",
+    "FORBIDDEN: Priya knows Kamala forged signature",
+    "FORBIDDEN: Dev was in Chennai for screen test",
+    "FORBIDDEN: Screen test went well",
+    "FORBIDDEN: Priya assigned Dev's understudy track to Wren",
+    "FORBIDDEN: Wren learning Dev's role in secret",
+    "FORBIDDEN: Dev plans to announce departure from gala stage",
+    "FORBIDDEN: Lighting desk failed during tech rehearsal",
+    "FORBIDDEN: Priya paid for replacement lighting desk from personal money",
+    "FORBIDDEN: Wren performed Dev's role in dress rehearsal and was extraordinary",
+    "FORBIDDEN: Dev believes dress rehearsal was cancelled",
+    "FORBIDDEN: Kamala privately admitted to herself, watching from the back of the stalls, that Wren is better in the part than Dev has been in six years. She told no one.",
+    "FUTURE (Ep 6): Priya tells Wren in costume store she's sure Dev is auditioning elsewhere, tells Wren to learn whole part properly. Wren tells no one.",
+    "FUTURE (Ep 6): House sells out. Gala performance occurs.",
+    "FUTURE (Ep 6): Dev announces from stage at end of gala that this was his last performance with company. Kamala in wings 11ft away hears it same time as audience.",
+    "FUTURE (Ep 6): Tomas leaves before curtain call. Company watches him go.",
+    "FUTURE (Ep 6): Kamala burns 2019 grant file in metal bin in alley behind scene dock.",
+    "FUTURE (Ep 6): Priya stands at stage door, decides NOT to tell Kamala about sale, goes home.",
+    "FUTURE (Ep 6): Kamala offers Wren lead roles for next season in office. Wren accepts. Neither mentions building."
+  ],
+  "test_case_analysis": "ISOLATED KNOWLEDGE TEST: Tomas signed the conditional sale agreement on Friday morning (Ep 5). He knows the lease non-renewal and his secret meetings with developers. However, he DOES NOT KNOW about Kamala's 2019 grant forgery, Dev's secret auditions, the lighting desk breakdown, or Wren replacing Dev in dress rehearsal. His perspective is cool, detached, and administrative.",
+  "generation_mode": "no_key_configured_using_curated_fallback"
+}
